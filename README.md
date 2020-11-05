@@ -1,5 +1,5 @@
 # Shopping-list
-SwiftUI program
+I wont to learn SwiftUI
 - SwiftUI
 - Firebase
 - CoreData
